@@ -1,0 +1,14 @@
+[
+    {
+        "keys": ["alt+s"],
+        "command": "insert_unsplash"
+    },
+    {
+        "keys": ["alt+shift+s"],
+        "command": "insert_unsplash_url"
+    },
+    {
+        "keys": ["alt+shift+super+s"],
+        "command": "insert_unsplash_background"
+    }
+]

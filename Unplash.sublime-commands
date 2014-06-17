@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Unsplash: Insert Image tag",
+        "command": "insert_unsplash"
+    },
+    {
+        "caption": "Unsplash: Insert Image URL",
+        "command": "insert_unsplash_url"
+    },
+    {
+        "caption": "Unsplash: Insert Background Image CSS",
+        "command": "insert_unsplash_background"
+    }
+]
