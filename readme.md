@@ -5,15 +5,16 @@ Use real dummy images instead of placeholders. Unsplash for Sublime Text brings 
 to Sublime Text, your favorite code editor.
 
 ## Features
-* Get random image url from 100 images from [Unsplash Tumblr Blog](http://unsplash.com)
+* Get random image (or image url) from [Unsplash](http://unsplash.com)
 * Insert an `img` tag
 * Insert image URL
 * Insert Background Image CSS `background-image`
 
 ## How to use
-* Launch the Command Palette `Shift`+`Cmd`+P and search for Unsplash
+* Launch the Command Palette `Shift`+`Cmd`+ P and search for Unsplash
 
-Keyboard shortcuts:
+### Keyboard shortcuts:
+
 * `Alt` + `S` → Insert image tag
 * `Alt` + `Shift` + `S` → Insert image URL
 * `Cmd` + `Alt` + `Shift` + `S` → Insert Background Image CSS
@@ -45,4 +46,5 @@ Currently the largest Tumblr image size, 1280 pixels wide
 ## Notes
 
 Images from Unsplash is free [do whatever you want](http://creativecommons.org/publicdomain/zero/1.0) (CC0 1.0 Universal (CC0 1.0))
+
 You will find photo credits under each photo on [Unsplash](http://unsplash.com)
