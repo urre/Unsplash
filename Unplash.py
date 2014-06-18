@@ -3,7 +3,7 @@ import sublime, sublime_plugin, random, os
 def insert_unsplash( kind ):
     from os.path import join
     package_path = join(sublime.packages_path(), "Unsplash")
-    unpath = package_path + '/unsplash.txt'
+    unpath = os.path.join(package_path, "unsplash.txt")
     lines = open(unpath).read().splitlines()
     splash = random.choice(lines)
 
