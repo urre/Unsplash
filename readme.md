@@ -1,4 +1,4 @@
-Unsplash for Sublime Text
+Unsplash for Sublime Text 2
 =============================
 
 Use real dummy images instead of placeholders. Unsplash for Sublime Text brings beautiful images from [Unsplash](http://unsplash.com)
@@ -42,6 +42,9 @@ Go to your Sublime Text 2 Packages directory and clone the repository using:
 
 #### Which sizes are the images?
 Currently the largest Tumblr image size, 1280 pixels wide
+
+#### Which version of Sublime Text does this support?
+Currently Sublime Text 2
 
 ## Notes
 
