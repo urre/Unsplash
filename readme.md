@@ -48,6 +48,10 @@ Currently the largest Tumblr image size, 1280 pixels wide
 #### Which version of Sublime Text does this support?
 Currently Sublime Text 2
 
+## Todo
+* Insert figure/figcaption with photo credits
+* Use more image sizes from Tumblr
+
 ## Notes
 
 Images from Unsplash is free [do whatever you want](http://creativecommons.org/publicdomain/zero/1.0) (CC0 1.0 Universal (CC0 1.0))
