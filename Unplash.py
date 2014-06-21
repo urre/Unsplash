@@ -4,8 +4,10 @@ def insert_unsplash( kind ):
     from os.path import join
     package_path = join(sublime.packages_path(), "Unsplash")
     unpath = os.path.join(package_path, "unsplash.txt")
-    lines = open(unpath).read().splitlines()
-    splash = random.choice(lines)
+
+    with open(unpath) as f:
+        lines = f.read().splitlines()
+        splash = random.choice(lines)
 
     if kind == "tag":
         imagetag = '<img src="%s" />'% (splash)
