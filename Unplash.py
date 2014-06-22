@@ -10,7 +10,7 @@ def insert_unsplash( kind ):
         splash = random.choice(lines)
 
     if kind == "tag":
-        imagetag = '<img src="%s" />'% (splash)
+        imagetag = '<img src="%s">'% (splash)
     elif kind == "background":
         imagetag = 'background-image: url("%s") no-repeat center center'% (splash)
     else:
