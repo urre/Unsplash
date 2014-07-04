@@ -1,4 +1,4 @@
-Unsplash for Sublime Text 2
+Unsplash for Sublime Text
 =============================
 
 Use real dummy images instead of placeholders. Unsplash for Sublime Text brings beautiful images from [Unsplash](http://unsplash.com)
@@ -30,7 +30,7 @@ If you have [Package Control](http://wbond.net/sublime_packages/package_control)
 * Just search for "Unsplash" to install
 
 ### Using Git
-Go to your Sublime Text 2 Packages directory and clone the repository using:
+Go to your Sublime Text Packages directory and clone the repository using:
 
     git clone https://github.com/urre/Unsplash
 
@@ -38,7 +38,7 @@ Go to your Sublime Text 2 Packages directory and clone the repository using:
 
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `Unsplash`
-* Copy the folder to your Sublime Text 2 `Packages` directory
+* Copy the folder to your Sublime Text `Packages` directory
 
 ## FAQ
 
@@ -46,7 +46,7 @@ Go to your Sublime Text 2 Packages directory and clone the repository using:
 Currently the largest Tumblr image size, 1280 pixels wide
 
 #### Which version of Sublime Text does this support?
-Currently Sublime Text 2
+Both Sublime Text 2 and 3
 
 ## Todo
 * Insert figure/figcaption with photo credits
