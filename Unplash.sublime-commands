@@ -1,7 +1,7 @@
 [
     {
         "caption": "Unsplash: Insert Image tag",
-        "command": "insert_unsplash"
+        "command": "insert_unsplash_tag"
     },
     {
         "caption": "Unsplash: Insert Image URL",
