@@ -1,7 +1,7 @@
 [
     {
         "keys": ["alt+s"],
-        "command": "insert_unsplash"
+        "command": "insert_unsplash_tag"
     },
     {
         "keys": ["alt+shift+s"],
