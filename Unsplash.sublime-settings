@@ -1,0 +1,9 @@
+{
+  // Tumblr image sizes: 1280, 500, 400, 250, 100, 75
+  // looks for the next bigger image
+  // e.g. "imgWidth": 1000
+  //  => image width would be 1280px
+  // e.g. "imgWidth": 450
+  //  => image width would be 500px
+  "imgWidth": 1280
+}
