@@ -51,15 +51,12 @@ Go to your Sublime Text Packages directory and clone the repository using:
 
 ## FAQ
 
-#### Which sizes are the images?
-Currently the largest Tumblr image size, 1280 pixels wide
-
 #### Which version of Sublime Text does this support?
 Both Sublime Text 2 and 3
 
 ## Changelog
 
-+ v1.0 Fetch images directly via the Tumblr API. Bug fix: use `background` instead of `background image`. Added settings file for fetching different sizes from Tumblr API.
++ **1.0** Fetch images directly via the Tumblr API. Bug fix: use `background` instead of `background image`. Added settings file for fetching different sizes from Tumblr API.
 
 ## Notes
 
