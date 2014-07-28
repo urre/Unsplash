@@ -10,9 +10,10 @@ to Sublime Text, your favorite code editor.
 * Get random image (or image url) from [Unsplash](http://unsplash.com)
 * Insert an `img` tag
 * Insert image URL
-* Insert Background Image CSS `background-image`
+* Insert Background Image CSS
 
 ## How to use
+
 * Launch the Command Palette `Shift`+`Cmd`+ P and search for Unsplash
 
 ### Keyboard shortcuts:
@@ -20,6 +21,14 @@ to Sublime Text, your favorite code editor.
 * `Alt` + `S` → Insert image tag
 * `Alt` + `Shift` + `S` → Insert image URL
 * `Cmd` + `Alt` + `Shift` + `S` → Insert Background Image CSS
+
+### Settings
+
+You can specify different images sizes in your `Preferences.sublime-settings`. Tumblr sizes: 1280, 500, 400, 250, 100, 75 pixels. For example:
+
+	{
+		"imgWidth": 1280
+	}
 
 ## Installation
 
@@ -48,9 +57,9 @@ Currently the largest Tumblr image size, 1280 pixels wide
 #### Which version of Sublime Text does this support?
 Both Sublime Text 2 and 3
 
-## Todo
-* Insert figure/figcaption with photo credits
-* Use more image sizes from Tumblr
+## Changelog
+
++ v1.0 Fetch images directly via the Tumblr API. Bug fix: use `background` instead of `background image`. Added settings file for fetching different sizes from Tumblr API.
 
 ## Notes
 
