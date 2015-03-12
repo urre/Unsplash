@@ -19,9 +19,10 @@ to Sublime Text, your favorite code editor.
 
 ### Keyboard shortcuts:
 
-* `Alt` + `S` → Insert image tag
-* `Alt` + `Shift` + `S` → Insert image URL
-* `Cmd` + `Alt` + `Shift` + `S` → Insert Background Image CSS
+* `Alt` + `s` → Insert image tag
+* `Alt` + `Shift` + `s` → Insert image URL
+* `Cmd` + `Alt` + `Shift` + `s` → Insert Background Image CSS
+* `Cmd` + `Alt` + `Shift` + `m` → Markdown Image Tag
 
 ### Settings
 

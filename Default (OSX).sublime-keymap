@@ -10,5 +10,9 @@
     {
         "keys": ["alt+shift+super+s"],
         "command": "insert_unsplash_background"
+    },
+    {
+        "keys": ["alt+shift+super+m"],
+        "command": "insert_unsplash_markdown"
     }
 ]
