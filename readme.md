@@ -11,6 +11,7 @@ to Sublime Text, your favorite code editor.
 * Insert an `img` tag
 * Insert image URL
 * Insert Background Image CSS
+* Insert Markdown Tag
 
 ## How to use
 
@@ -56,6 +57,7 @@ Both Sublime Text 2 and 3
 
 ## Changelog
 
++ **1.1** Added support for Markdown Image Tag
 + **1.0** Fetch images directly via the Tumblr API. Bug fix: use `background` instead of `background image`. Added settings file for fetching [different sizes](https://github.com/urre/Unsplash#settings)
 
 ## Notes

@@ -10,5 +10,9 @@
     {
         "caption": "Unsplash: Insert Background Image CSS",
         "command": "insert_unsplash_background"
+    },
+    {
+        "caption": "Unsplash: Insert Markdown Image Tag",
+        "command": "insert_unsplash_markdown"
     }
 ]

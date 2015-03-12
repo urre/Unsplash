@@ -43,6 +43,8 @@ class InsertUnsplashCommand(sublime_plugin.TextCommand):
             imagetag = '<img src="%s">'% (splash)
         elif args['type'] == "background":
             imagetag = 'background: url("%s") no-repeat center center'% (splash)
+        elif args['type'] == "markdown":
+            imagetag = '![](%s)'% (splash)
         else:
             imagetag = '%s'% (splash)
 
@@ -53,12 +55,14 @@ class InsertUnsplashTagCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         self.view.run_command("insert_unsplash", {"args":{'type':'tag'}})
 
-
 class InsertUnsplashUrlCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         self.view.run_command("insert_unsplash", {"args":{'type':'url'}})
 
-
 class InsertUnsplashBackgroundCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         self.view.run_command("insert_unsplash", {"args":{'type':'background'}})
+
+class InsertUnsplashMarkdownCommand(sublime_plugin.TextCommand):
+    def run(self, edit):
+        self.view.run_command("insert_unsplash", {"args":{'type':'markdown'}})
