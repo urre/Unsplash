@@ -1,0 +1,18 @@
+[
+    {
+        "keys": ["shift+alt+s"],
+        "command": "insert_unsplash_tag"
+    },
+    {
+        "keys": ["alt+shift+ctrl+s"],
+        "command": "insert_unsplash_url"
+    },
+    {
+        "keys": ["alt+shift+ctrl+a"],
+        "command": "insert_unsplash_background"
+    },
+    {
+        "keys": ["alt+shift+ctrl+m"],
+        "command": "insert_unsplash_markdown"
+    }
+]
