@@ -54,10 +54,11 @@ Go to your Sublime Text Packages directory and clone the repository using:
 ## FAQ
 
 #### Which version of Sublime Text does this support?
-Both Sublime Text 2 and 3
+Both Sublime Text 2 and 3.
 
 ## Changelog
 
++ **1.1.2** Added Windows Keyboard Shortcuts
 + **1.1.1** Added keyboard shortcut for Markdown Image Tag
 + **1.1.0** Added support for Markdown Image Tag
 + **1.0.0** Fetch images directly via the Tumblr API. Bug fix: use `background` instead of `background image`. Added settings file for fetching [different sizes](https://github.com/urre/Unsplash#settings)
