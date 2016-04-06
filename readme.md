@@ -4,7 +4,7 @@ Unsplash for Sublime Text
 Use real dummy images instead of placeholders. Unsplash for Sublime Text brings beautiful images from [Unsplash](http://unsplash.com)
 to Sublime Text, your favorite code editor.
 
-![Unsplash for Sublime Text](http://labs.urre.me/images/unsplash.jpg)
+![Unsplash for Sublime Text](http://unsplashsublime.surge.sh/images/header.jpg)
 
 ## Features
 * Get random image (or image url) from [Unsplash](http://unsplash.com)
